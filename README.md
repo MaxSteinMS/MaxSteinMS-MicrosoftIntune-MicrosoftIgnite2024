@@ -18,6 +18,8 @@ If you've stopped by our on-site booth - Thank you for visiting our booth and ch
 Use this repository to:
 - Access Reference Materials discussed during the event, with detailed guides and documents on endpoint management and security.
 - Download the Resource Guide PDF or PNG slide containing links to further resources and support channels.
+  - [PDF version](https://github.com/MaxSteinMS/MaxSteinMS-MicrosoftIntune-MicrosoftIgnite2024/blob/main/Microsoft%20Ignite%202024%20-%20Microsoft%20Intune%20Experts.pdf)
+  - [PNG version](https://github.com/MaxSteinMS/MaxSteinMS-MicrosoftIntune-MicrosoftIgnite2024/blob/main/Microsoft%20Ignite%202024%20-%20Microsoft%20Intune%20Experts.png)
 - Connect with our community and Q&A sections for further insights and personalized support.
 
 We hope this repo will serve as a valuable resource for continuing your Microsoft Intune journey!
