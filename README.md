@@ -3,8 +3,9 @@ November 19-22, 2024
 
 Join us for the latest updates on Microsoft Intune and explore the future of endpoint management, security, and cloud services at Microsoft Ignite 2024.
 
-[Intune News at Ignite](https://aka.ms/IntuneNews_Ignite_2024)
-[This shortcut!](https://aka.ms/Intune/Ignite2024/Support)
+**Intune News at Ignite**: [aka.ms/IntuneNews_Ignite_2024](https://aka.ms/IntuneNews_Ignite_2024)
+
+**Current page**: [aka.ms/Intune/Ignite2024/Support](https://aka.ms/Intune/Ignite2024/Support)
 
 # Schedule
 - **Keynote**: November 19, 2024
