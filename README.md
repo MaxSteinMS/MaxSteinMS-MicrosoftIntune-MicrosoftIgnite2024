@@ -3,9 +3,13 @@ November 19-22, 2024
 
 Join us for the latest updates on Microsoft Intune and explore the future of endpoint management, security, and cloud services at Microsoft Ignite 2024.
 
-**Intune News at Ignite**: [aka.ms/IntuneNews_Ignite_2024](https://aka.ms/IntuneNews_Ignite_2024)
-
-**Current page**: [aka.ms/Intune/Ignite2024/Support](https://aka.ms/Intune/Ignite2024/Support)
+# Highlights
+- **Current page**: [aka.ms/Intune/Ignite2024/Support](https://aka.ms/Intune/Ignite2024/Support)
+- **Intune News at Ignite**: [aka.ms/IntuneNews_Ignite_2024](https://aka.ms/IntuneNews_Ignite_2024)
+- **Enabling the future of IT with cloud-native management**: [aka.ms/Win365withCloudMgmt_Ignite_2024](https://aka.ms/Win365withCloudMgmt_Ignite_2024)
+- **MAM Apple Specialty Devices**: [aka.ms/AppleIntuneUpdates_Ignite2024](https://aka.ms/AppleIntuneUpdates_Ignite2024)
+- **New Copilot in Intune Capabilities**: [aka.ms/CopilotInIntune_Ignite_2024](https://aka.ms/CopilotInIntune_Ignite_2024)
+- **Windows Hardware Device Inventory Now in GA**: [aka.ms/DeviceInventory_Ignite_2024](https://aka.ms/DeviceInventory_Ignite_2024)
 
 # Schedule
 - **Keynote**: November 19, 2024
